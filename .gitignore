@@ -1,6 +1,6 @@
 
-ExcelTool/.vs
+.vs/
 ExcelTool/ExcelTool/FodyWeavers.xsd
-ExcelTool/ExcelTool/bin
-ExcelTool/ExcelTool/obj
-ExcelTool/packages
+bin/
+obj/
+**/packages/*
